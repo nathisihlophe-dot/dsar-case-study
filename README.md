@@ -1,4 +1,4 @@
-# Data Subject Access Request (DSAR): Worked Case Study
+# Data Subject Access Request (DSAR): Case Study
 
 A single DSAR walked through its full lifecycle at a financial-services firm: intake, identity verification, locating data across systems, applying exemptions, preparing the response, and keeping the audit trail.
 
