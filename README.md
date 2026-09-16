@@ -1,8 +1,8 @@
 # Data Subject Access Request (DSAR): Case Study
 
-A single DSAR walked through its full lifecycle at a financial-services firm: intake, identity verification, locating data across systems, applying exemptions, preparing the response, and keeping the audit trail.
+A single Data Subject Access Request, handled from start to finish at a financial-services firm. It covers intake, identity verification, locating the data across systems, applying exemptions, preparing the response, and keeping the audit trail.
 
-This is an illustrative exercise using a fictional requester and a representative financial-services context, no real personal data involved. Modelled under EU GDPR in a Finnish context, referencing the Finnish Data Protection Ombudsman (Tietosuojavaltuutetun toimisto) as the supervisory authority.
+This is an illustrative exercise with a fictional requester, no real personal data is involved. It's modelled under EU GDPR in a Finnish context, referencing the Finnish Data Protection Ombudsman (Tietosuojavaltuutetun toimisto) as the supervisory authority.
 
 ## The scenario
 
